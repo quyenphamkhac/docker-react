@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hello, Change remote</p>
+        <p>I was changed on the Feature Branch</p>
       </header>
     </div>
   );
