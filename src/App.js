@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hello, Change name</p>
+        <p>Hello, Change remote</p>
       </header>
     </div>
   );
